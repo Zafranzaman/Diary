@@ -12,7 +12,6 @@
 		BF02D46F2A6BF39900C438C2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF02D46E2A6BF39900C438C2 /* AppDelegate.swift */; };
 		BF02D4712A6BF39900C438C2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF02D4702A6BF39900C438C2 /* ViewController.swift */; };
 		BF02D4742A6BF39900C438C2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF02D4722A6BF39900C438C2 /* Main.storyboard */; };
-		BF02D4762A6BF3A000C438C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF02D4752A6BF3A000C438C2 /* Assets.xcassets */; };
 		BF02D4792A6BF3A000C438C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF02D4772A6BF3A000C438C2 /* LaunchScreen.storyboard */; };
 		BF02D4842A6BF3A000C438C2 /* SimpleDiaryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF02D4832A6BF3A000C438C2 /* SimpleDiaryTests.swift */; };
 		BF02D48F2A6BF3A000C438C2 /* SimpleDiaryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF02D48E2A6BF3A000C438C2 /* SimpleDiaryUITests.swift */; };
@@ -78,7 +77,6 @@
 		BF02D46E2A6BF39900C438C2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BF02D4702A6BF39900C438C2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		BF02D4732A6BF39900C438C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		BF02D4752A6BF3A000C438C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BF02D4782A6BF3A000C438C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BF02D47A2A6BF3A000C438C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BF02D47F2A6BF3A000C438C2 /* SimpleDiaryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SimpleDiaryTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -206,7 +204,6 @@
 				BF26181C2A8A795100ED351D /* Model */,
 				BF2618192A8A323100ED351D /* Extention */,
 				BF02D4722A6BF39900C438C2 /* Main.storyboard */,
-				BF02D4752A6BF3A000C438C2 /* Assets.xcassets */,
 				BF02D4772A6BF3A000C438C2 /* LaunchScreen.storyboard */,
 				BF02D47A2A6BF3A000C438C2 /* Info.plist */,
 			);
@@ -531,7 +528,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				BF02D4792A6BF3A000C438C2 /* LaunchScreen.storyboard in Resources */,
-				BF02D4762A6BF3A000C438C2 /* Assets.xcassets in Resources */,
 				BF02D4742A6BF39900C438C2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
